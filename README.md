@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jia 👋
 
-<!--
-**AriseshineSky/AriseshineSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on Ruby and Python.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ruby / Ruby on Rails
+- Python
+- MySQL / Redis
+- Elasticsearch
+
+## Interests
+
+- Backend architecture
+- Automation systems
+- Distributed systems
+
+## Featured Projects
+
+### Rails Backend Systems
+Building scalable backend services with Rails.
+
+### Python Automation
+Async crawlers, automation workflows, and data pipelines.
+
+## Contact
+
+- GitHub: https://github.com/AriseshineSky
