@@ -23,6 +23,10 @@ Building scalable backend services with Rails.
 ### Python Automation
 Async crawlers, automation workflows, and data pipelines.
 
+## LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AriseshineSky?theme=dark)](https://leetcode.com/u/AriseshineSky/)
+
 ## Contact
 
 - GitHub: https://github.com/AriseshineSky
